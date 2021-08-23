@@ -1,3 +1,3 @@
 # Facebook_Scraper
-scrape profile gallery images.
-tools : selenium, bs4
+scrape profile gallery images save them locally.
+tools : selenium, os
